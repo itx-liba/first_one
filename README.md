@@ -1,2 +1,2 @@
 # first_one
-this is my first repo
+Thiss is my first REPO
